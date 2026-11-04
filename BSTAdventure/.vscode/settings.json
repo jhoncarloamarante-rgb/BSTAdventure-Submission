@@ -1,0 +1,14 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.jdt.ls.java.home": "C:\\Program Files\\Microsoft\\jdk-17.0.21.21-hotspot",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "C:\\Program Files\\Microsoft\\jdk-17.0.21.21-hotspot"
+    }
+  ],
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.project.outputPath": "bin"
+}
